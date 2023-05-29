@@ -69,11 +69,9 @@ export default navbar([
       {
         text: "微信",
         icon: "wechat",
-        link: "https://img.newzone.top/wechat.svg",
+        link: "https://cdn.jsdelivr.net/gh/luckyoubest2/Bolg-IMG/671685350854_.pic.jpg",
       },
-      { text: "Email", icon: "alias", link: "mailto:learndata@newzone.top" },
-      { text: "Discord", icon: "group", link: "https://discord.gg/PZTQfJ4GjX" },
-      { text: "RSS", icon: "rss", link: "https://newzone.top/rss.xml" },
+      { text: "Email", icon: "alias", link: "mailto:aisibi2b@163.com" },
     ],
   },
 ]);

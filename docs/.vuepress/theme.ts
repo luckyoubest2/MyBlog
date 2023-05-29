@@ -7,13 +7,13 @@ const __dirname = getDirname(import.meta.url);
 
 export default hopeTheme({
   // 主题选项：https://theme-hope.vuejs.press/zh/config/theme/layout.html
-  hostname: "https://newzone.top",
+  hostname: "https://luckyoubest2.github.io",
 
   iconAssets: "iconfont",
 
   author: {
-    name: "清顺",
-    url: "https://newzone.top",
+    name: "蔡箜篌",
+    url: "https://luckyoubest2.github.io",
   },
 
   logo: "/logo.svg",
