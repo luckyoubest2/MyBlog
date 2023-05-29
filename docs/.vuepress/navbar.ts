@@ -4,20 +4,7 @@ import { navbar } from "vuepress-theme-hope";
 export default navbar([
   { text: "博客", icon: "blog", link: "/blog" },
   {
-    text: "代码",
-    icon: "code",
-    prefix: "/",
-    children: [
-      "code/Markdown",
-      "code/AutoHotkey",
-      "code/Electron",
-      {
-        text: "页面开发",
-        icon: "vue",
-        prefix: "",
-        children: ["web/VuePress", "web/docsify", "deploy/VPS"],
-      },
-    ],
+    text: "读书", icon: "read", link: "/reading"
   },
   {
     text: "应用",
@@ -45,7 +32,7 @@ export default navbar([
     children: ["Diet", "Shoppinglist", "Coupon"],
   },
   {
-    text: "工具",
+    text: "外链",
     icon: "tool",
     children: [
       {
