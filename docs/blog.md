@@ -3,11 +3,11 @@
 home: true
 layout: BlogHome
 icon: home
-title: 互联网小白
+title: 箜篌簿
 #heroImage: /logo.svg
-heroText: 互联网小白
-tagline: 盛年不重来，一日难再晨
-bgImage: https://img.newzone.top/home-bg-1.jpg
+heroText: 蔡箜篌
+tagline: 清风徐来，水波不兴
+bgImage: https://cdn.jsdelivr.net/gh/luckyoubest2/Bolg-IMG/Xnip2023-05-29_16-22-13.jpg
 heroFullScreen: false
 #projects:
 #  - icon: project
