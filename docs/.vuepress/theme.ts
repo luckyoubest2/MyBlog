@@ -65,22 +65,15 @@ export default hopeTheme({
   // 主题功能选项：https://theme-hope.vuejs.press/zh/config/theme/feature.html
   blog: {
     articleInfo: ["Date", "PageView", "Category", "Tag", "ReadingTime"],
-    name: "清顺",
-    avatar: "/avatar_self.webp",
-    description: "迷信新工具，热衷于研究开源软件、心理学理论，定期分享探索成果",
+    name: "蔡箜篌",
+    avatar: "https://cdn.jsdelivr.net/gh/luckyoubest2/Bolg-IMG/Xnip2023-05-29_16-22-13.jpg",
+    description: "互联网街溜子，未来新手奶爸",
     intro: "/intro.html",
     roundAvatar: true,
     medias: {
-      GitHub: "https://github.com/rockbenben",
-      Zhihu: "https://www.zhihu.com/people/qingwhat",
-      少数派: [
-        "https://sspai.com/u/zqj05i4v/posts",
-        path.resolve(__dirname, "icons/sspai.svg"),
-      ],
-      Wechat: "https://img.newzone.top/wechat.svg",
-      Email: "mailto:learndata@newzone.top",
-      Discord: "https://discord.gg/PZTQfJ4GjX",
-      RSS: "https://newzone.top/rss.xml",
+      GitHub: "https://github.com/luckyoubest2",
+      Wechat: "https://cdn.jsdelivr.net/gh/luckyoubest2/Bolg-IMG/671685350854_.pic.jpg",
+      Email: "mailto:aisibi2b@163.com",
     },
   },
 
