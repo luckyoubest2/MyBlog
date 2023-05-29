@@ -32,7 +32,7 @@ export default hopeTheme({
   fullscreen: true,
 
   // 默认为 GitHub. 同时也可以是一个完整的 URL
-  repo: "GitHub",
+  repo: "luckyoubest2/luckyoubest2.github.io",
   // 自定义仓库链接文字。默认从 `repo` 中自动推断为 "GitHub" / "GitLab" / "Gitee" / "Bitbucket" 其中之一，或是 "Source"。
   repoLabel: "GitHub",
   // 是否在导航栏内显示仓库链接，默认为 `true`
@@ -95,7 +95,7 @@ export default hopeTheme({
         "https://lf3-cdn-tos.bytecdntp.com/cdn/expire-1-y/twemoji/13.1.0/72x72/1f635-200d-1f4ab.png",
       ],
       // 部署 Waline：https://waline.js.org/guide/get-started.html
-      // pageview: true, // 浏览量统计
+       pageview: true, // 浏览量统计
       locales: {
         "/": {
           // 表情互动提示文字
