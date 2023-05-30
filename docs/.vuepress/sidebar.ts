@@ -4,8 +4,7 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar([
   "/DailyRoutine",
   {
-    text: "博客文章",
-    icon: "blog",
+    text: "🗞️博客文章",
     prefix: "/_posts/",
     link: "/blog",
     collapsible: true,
@@ -14,6 +13,7 @@ export default sidebar([
   {
     text: "📖 读书笔记",
     prefix: "/reading/",
+    link: "",
     collapsible: true,
     children: "structure",
   },
