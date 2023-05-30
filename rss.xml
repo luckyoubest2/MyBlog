@@ -6,8 +6,8 @@
     <link>https://luckyoubest2.github.io/</link>
     <description>网络街溜子的后花园</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 May 2023 03:21:07 GMT</pubDate>
-    <lastBuildDate>Tue, 30 May 2023 03:21:07 GMT</lastBuildDate>
+    <pubDate>Tue, 30 May 2023 03:28:32 GMT</pubDate>
+    <lastBuildDate>Tue, 30 May 2023 03:28:32 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>解决方案</category>
@@ -19,10 +19,11 @@
       <link>https://luckyoubest2.github.io/apps/20230530-%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.html</link>
       <guid>https://luckyoubest2.github.io/apps/20230530-%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.html</guid>
       <source url="https://luckyoubest2.github.io/rss.xml">网站搭建说明</source>
-      <description>原标题：LearnData 开源笔记 ✨ 初衷 曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。 更重要的是，笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的知识。 因此，我基于 VuePress 和 vuepress-theme-hope 建立了 LearnData，将所有笔记与文章重新整合，聚合到同一页面形成知识库，方便自己使用和分享。 笔记 + 文章 = LearnData 知识库</description>
+      <description>原标题：LearnData 开源笔记 原文链接：https://newzone.top/ ✨ 初衷 曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。 更重要的是，笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的知识。 因此，我基于 VuePress 和 vuepress-theme-hope 建立了 LearnData，将所有笔记与文章重新整合，聚合到同一页面形成知识库，方便自己使用和分享。</description>
       <category>解决方案</category>
       <pubDate>Fri, 31 Mar 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> 原标题：LearnData 开源笔记</h1>
+      <content:encoded><![CDATA[<h2> 原标题：LearnData 开源笔记</h2>
+<p>原文链接：<a href="https://newzone.top/" target="_blank" rel="noopener noreferrer">https://newzone.top/</a></p>
 <h2> ✨ 初衷</h2>
 <p>曾经，我把知识记录在 Notion、Obsidian、飞书等知识管理软件上，导致笔记散落各处，使用起来很麻烦，也难以对外分享。</p>
 <p>更重要的是，<strong>笔记里的知识并不属于你，只有经过消化、应用，才会成为自己的知识。</strong></p>
