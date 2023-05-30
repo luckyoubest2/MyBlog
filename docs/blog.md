@@ -10,10 +10,10 @@ tagline: 清风徐来，水波不兴
 bgImage: https://cdn.jsdelivr.net/gh/luckyoubest2/Bolg-IMG/Xnip2023-05-29_16-22-13.jpg
 heroFullScreen: false
 projects:
-  - icon: article
+  - icon: https://cdn.jsdelivr.net/gh/luckyoubest2/Bolg-IMG/thumbs_up_star_like_favourite_icon_142415.png
     name: 星标文章
     desc: 重点文章
-    link: "/star/"
+    link: https://luckyoubest2.github.io/star/
 
   - icon: https://cdn.jsdelivr.net/gh/luckyoubest2/Bolg-IMG/sspai.svg
     name: 少数派
