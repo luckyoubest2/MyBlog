@@ -26,7 +26,7 @@ export default navbar([
       }, 
       {
         text: "影评",
-        icon: "movie",
+        icon: "https://icon-sets.iconify.design/icon-park-twotone/movie/",
         link: "影评",
       }, 
     ],
