@@ -15,17 +15,17 @@ projects:
     desc: 重点文章
     link: "/blog/"
 
-  - icon: /icons/sspai.svg
+  - icon: /.vuepress/icons/sspai.svg
     name: 少数派
     desc: 我推荐的互联网知识网站
     link: https://sspai.com/
 
-  - icon: /icons/flomo.jpg
+  - icon: /.vuepress/icons/flomo.jpg
     name: Flomo
     desc: 我的随身便利贴
     link: https://v.flomoapp.com/mine
 
-  - icon: /icons/cubox.jpg
+  - icon: /.vuepress/icons/cubox.jpg
     name: Cubox
     desc: 我的稍后读工具
     link: https://cubox.pro/my/inbox
