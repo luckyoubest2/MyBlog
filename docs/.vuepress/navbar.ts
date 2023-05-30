@@ -26,7 +26,7 @@ export default navbar([
       }, 
       {
         text: "影评",
-        icon: "https://icon-sets.iconify.design/icon-park-twotone/movie/",
+        icon: "play",
         link: "影评",
       }, 
     ],
@@ -61,6 +61,11 @@ export default navbar([
         text: "ChatGPT SC",
         icon: "creative",
         link: "https://www.aishort.top/",
+      },
+      {
+        text: "归档文件",
+        icon: "delete",
+        link: "/category/归档",
       },
     ],
   },
