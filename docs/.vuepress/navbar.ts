@@ -3,31 +3,55 @@ import { navbar } from "vuepress-theme-hope";
 // 精选图标：https://theme-hope.vuejs.press/zh/guide/interface/icon.html#iconfont-%E7%B2%BE%E9%80%89%E5%9B%BE%E6%A0%87
 export default navbar([
   { text: "博客", icon: "blog", link: "/blog" },
-  { text: "读书", icon: "read", link: "/category/:随笔" },
-  {
-    text: "应用",
-    icon: "app",
-    prefix: "/",
-    children: [
-      "apps/Applist",
-      {
-        text: "直播手册",
-        icon: "quote",
-        link: "apps/livestreaming/1_obs_basic",
-      },
-      {
-        text: "服务/系统",
-        icon: "any",
-        prefix: "",
-        children: ["services/NAS", "windows/faq"],
-      },
-    ],
-  },
+  { text: "读书", icon: "read", link: "/category/读书笔记" },
   {
     text: "生活",
     icon: "emmet",
-    prefix: "/family/",
-    children: ["Diet", "Shoppinglist", "Coupon"],
+    prefix: "/category/",
+    children: [
+      {
+        text: "随笔",
+        icon: "alias",
+        link: "随笔",
+      }, 
+      {
+        text: "游记",
+        icon: "activity",
+        link: "游记",
+      }, 
+      {
+        text: "评测",
+        icon: "editor",
+        link: "评测",
+      }, 
+      {
+        text: "影评",
+        icon: "movie",
+        link: "影评",
+      }, 
+    ],
+  },
+  {
+    text: "网络",
+    icon: "app",
+    prefix: "/category/",
+    children: [
+      {
+        text: "数据库",
+        icon: "folder",
+        link: "数据库",
+      },
+      {
+        text: "解决方案",
+        icon: "guide",
+        link: "解决方案",
+      },
+      {
+        text: "受控文件",
+        icon: "info",
+        link: "受控文件",
+      },
+    ],
   },
   {
     text: "外链",
@@ -37,13 +61,6 @@ export default navbar([
         text: "ChatGPT SC",
         icon: "creative",
         link: "https://www.aishort.top/",
-      },
-      { text: "IMGPrompt", icon: "pic", link: "https://prompt.newzone.top/" },
-      { text: "文字处理", icon: "others", link: "https://tools.newzone.top/" },
-      {
-        text: "工具收藏",
-        icon: "categoryselected",
-        link: "https://nav.newzone.top/",
       },
     ],
   },

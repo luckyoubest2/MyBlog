@@ -2,6 +2,7 @@ import { getDirname, path } from "@vuepress/utils";
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
+import { autoCatalogPlugin } from "vuepress-plugin-auto-catalog";
 
 const __dirname = getDirname(import.meta.url);
 
@@ -81,7 +82,11 @@ export default hopeTheme({
   // print: false,
 
   plugins: {
+    
+    autoCatalogPlugin(),
+
     blog: true,
+
 
     // 评论配置（仅做样例，记得更换）
     comment: {
@@ -106,7 +111,7 @@ export default hopeTheme({
           reaction3: "啥玩意",
           reaction4: "看不懂",
           // Waline 等级标签
-          admin: "盛年不重来，一日难再晨",
+          admin: "互联网街溜子",
           level0: "锻体",
           level1: "炼气",
           level2: "筑基",
