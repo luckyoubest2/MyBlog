@@ -9,6 +9,27 @@ heroText: 蔡箜篌
 tagline: 清风徐来，水波不兴
 bgImage: https://cdn.jsdelivr.net/gh/luckyoubest2/Bolg-IMG/Xnip2023-05-29_16-22-13.jpg
 heroFullScreen: false
+projects:
+  - icon: article
+    name: 星标文章
+    desc: 重点文章
+    link: "/blog/"
+
+  - icon: /icons/sspai.svg
+    name: 少数派
+    desc: 我推荐的互联网知识网站
+    link: https://sspai.com/
+
+  - icon: /icons/flomo.jpg
+    name: Flomo
+    desc: 我的随身便利贴
+    link: https://v.flomoapp.com/mine
+
+  - icon: /icons/cubox.jpg
+    name: Cubox
+    desc: 我的稍后读工具
+    link: https://cubox.pro/my/inbox
+
 #projects:
 #  - icon: project
 #    name: 项目名称
