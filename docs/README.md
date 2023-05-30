@@ -1,6 +1,6 @@
 ---
 article: false
-title: LearnData 开源笔记
+title: 箜篌簿
 icon: note
 ---
 
