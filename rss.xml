@@ -6,60 +6,17 @@
     <link>https://luckyoubest2.github.io/</link>
     <description>网络街溜子的后花园</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 31 May 2023 09:19:10 GMT</pubDate>
-    <lastBuildDate>Wed, 31 May 2023 09:19:10 GMT</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 09:38:43 GMT</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 09:38:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>随笔</category>
     <category>受控文件</category>
     <category>解决方案</category>
     <item>
-      <title>Hello World!</title>
-      <link>https://luckyoubest2.github.io/posts/20230528-Hello_World.html</link>
-      <guid>https://luckyoubest2.github.io/posts/20230528-Hello_World.html</guid>
-      <source url="https://luckyoubest2.github.io/rss.xml">Hello World!</source>
-      <description>Hello World！ 这是我的第一篇公众号文章，欢迎来到我的数字后花园。第一篇文章起题目，不知怎么的就想起了这段经典的代码，他是人类在计算机上第一段敲出的字符，也以此来代表我在互联网世界发出的第一声声响。 Q：我为什么想要写文章？ A: 展开说其实能写另一篇文章了。我胸中也没多少墨水，不过是从去年开始想要对自己的生活有些记录。一方面是有些旅行随笔想要记录，又有时候是我自己的一些玩机技巧想要落到实处，又或者是我今日给老婆做了哪些菜肴想要记下来。 总而总之，就是我想让自己作为一个内容的生产者，至少也是记录者，而不是那种对网络信息穿胸过，毫无感觉的过客。</description>
-      <category>随笔</category>
-      <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Hello World！</h1>
-<p>这是我的第一篇公众号文章，欢迎来到我的数字后花园。第一篇文章起题目，不知怎么的就想起了这段经典的代码，他是人类在计算机上第一段敲出的字符，也以此来代表我在互联网世界发出的第一声声响。</p>
-<h2> Q：我为什么想要写文章？</h2>
-<p><strong>A:</strong></p>
-<p>展开说其实能写另一篇文章了。我胸中也没多少墨水，不过是从去年开始想要对自己的生活有些记录。一方面是有些旅行随笔想要记录，又有时候是我自己的一些玩机技巧想要落到实处，又或者是我今日给老婆做了哪些菜肴想要记下来。
-总而总之，就是我想让自己作为一个内容的生产者，至少也是记录者，而不是那种对网络信息穿胸过，毫无感觉的过客。</p>
-<h2> Q：我为什么要建公众号？</h2>
-<p><strong>A：</strong></p>
-<p>其实这个问题应该分成两个部分。为什么把文章发到网络上，和为什么选择公众号。</p>
-<ol>
-<li>为什么把文章发到网络上？</li>
-</ol>
-<p>主要还是想对自己有个促进作用，之前尝试过将文章内容保存到本地，可惜我自己懒，老是不了了之。另一个，可以让我本人对文章内容的正确性有一个保证。至少大家写试卷写完会检查一下吧，但是写日记的话就不会检查了hhhh。</p>
-<ol start="2">
-<li>为什么选择公众号？</li>
-</ol>
-<p>其实就是因为公众号方便啦，没有成本。还有就是相对比较封闭，不像其他平台那样开放，不关注我的人就看不见我在写什么东西，相对自由。</p>
-<p>其实想过开个自己的小站，奈何技术力不行，而且需要的成本也不低，以后有机会或者公众号这边满足不了我的需求就自己整一个小站吧。</p>
-<h2> Q：我会在公众号写什么文章？</h2>
-<p><strong>A：</strong></p>
-<p>有的没得我会在公众号放下一些乱七八糟的东西，可能是一下几个方面：</p>
-<ul>
-<li>一些技术文档，比如我折腾我的家的过程经历</li>
-<li>一些解决方案，比如我偶尔碰到的一些小问题</li>
-<li>一些生活随笔，比如我的小小游记</li>
-<li>一些调研报告，比如我如何选购我的物品</li>
-<li>一些评论文章，咱也爱看电影是不</li>
-<li>一些受控文件，管理数字资产也要有方法论</li>
-</ul>
-<p>等等啦，也会发发我的摄影作品，总之就是我的一片数字后花园～</p>
-<hr>
-<p>当然啦，我只是个互联网菜鸡，也就图一乐哈哈哈</p>
-<p>更新就尽量做到每月至少一篇文章吧</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>测试文章</title>
-      <link>https://luckyoubest2.github.io/posts/t@_5%E6%B5%8B%E8%AF%95.html</link>
-      <guid>https://luckyoubest2.github.io/posts/t@_5%E6%B5%8B%E8%AF%95.html</guid>
+      <link>https://luckyoubest2.github.io/posts/t-%E6%B5%8B%E8%AF%95.html</link>
+      <guid>https://luckyoubest2.github.io/posts/t-%E6%B5%8B%E8%AF%95.html</guid>
       <source url="https://luckyoubest2.github.io/rss.xml">测试文章</source>
       <description>测试excel复制 品牌 海尔 美的 卡萨帝 西门子 型号 BCD-545WFPB BCD-485WSPZM(E) BCD-555WDGAU1 KM46FA09TI 价格 4499 6499 10999 8099 外形尺寸（宽） 908 836 830 752 外形尺寸（厚） 648 600 677 715 外形尺寸（高） 1905 1912 1908 1911 预留间隙 未提及 5 20 100 总容积 545 485 555 452 冷藏室容积 327 318 368 207 变温室容积 37 0 96 冷冻室容积 181 167 187 149 开门方式 十字开门 十字开门 法式多门 十字门 每平米容积 926.26584 966.9059011 987.702657 840.648713 面板材质 PCM彩涂板 PCM彩涂板 钢化玻璃 PCM彩涂板 制冷方式 风冷 风冷 风冷 混冷 蒸发器数 未提及 1 未提及 3 压缩机数 未提及 1 未提及 1 制冷能力 7.5 5 7.5 未提及 电耗 0.93 0.81 0.79 1.05 噪声 38 36 35 未提及</description>
       <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
@@ -217,6 +174,51 @@
 这是一段直接从Obsidian复制来的链接，理论上应该连接到<a href="/_posts/apps/20230530-%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.html" target="blank">20230530-网站搭建说明</a></p>
 <p>这是加"/"的版本，理论上应该连接到第一级目录下的<a href="/" target="blank">README</a>
 这是加"/"的版本，理论上应该连接到<a href="/apps/20230530-%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.html" target="blank">20230530-网站搭建说明</a></p>
+<h2> 测试文件名</h2>
+<p>测试文件名要求</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Hello World!</title>
+      <link>https://luckyoubest2.github.io/posts/20230528-Hello_World.html</link>
+      <guid>https://luckyoubest2.github.io/posts/20230528-Hello_World.html</guid>
+      <source url="https://luckyoubest2.github.io/rss.xml">Hello World!</source>
+      <description>Hello World！ 这是我的第一篇公众号文章，欢迎来到我的数字后花园。第一篇文章起题目，不知怎么的就想起了这段经典的代码，他是人类在计算机上第一段敲出的字符，也以此来代表我在互联网世界发出的第一声声响。 Q：我为什么想要写文章？ A: 展开说其实能写另一篇文章了。我胸中也没多少墨水，不过是从去年开始想要对自己的生活有些记录。一方面是有些旅行随笔想要记录，又有时候是我自己的一些玩机技巧想要落到实处，又或者是我今日给老婆做了哪些菜肴想要记下来。 总而总之，就是我想让自己作为一个内容的生产者，至少也是记录者，而不是那种对网络信息穿胸过，毫无感觉的过客。</description>
+      <category>随笔</category>
+      <pubDate>Mon, 29 May 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1> Hello World！</h1>
+<p>这是我的第一篇公众号文章，欢迎来到我的数字后花园。第一篇文章起题目，不知怎么的就想起了这段经典的代码，他是人类在计算机上第一段敲出的字符，也以此来代表我在互联网世界发出的第一声声响。</p>
+<h2> Q：我为什么想要写文章？</h2>
+<p><strong>A:</strong></p>
+<p>展开说其实能写另一篇文章了。我胸中也没多少墨水，不过是从去年开始想要对自己的生活有些记录。一方面是有些旅行随笔想要记录，又有时候是我自己的一些玩机技巧想要落到实处，又或者是我今日给老婆做了哪些菜肴想要记下来。
+总而总之，就是我想让自己作为一个内容的生产者，至少也是记录者，而不是那种对网络信息穿胸过，毫无感觉的过客。</p>
+<h2> Q：我为什么要建公众号？</h2>
+<p><strong>A：</strong></p>
+<p>其实这个问题应该分成两个部分。为什么把文章发到网络上，和为什么选择公众号。</p>
+<ol>
+<li>为什么把文章发到网络上？</li>
+</ol>
+<p>主要还是想对自己有个促进作用，之前尝试过将文章内容保存到本地，可惜我自己懒，老是不了了之。另一个，可以让我本人对文章内容的正确性有一个保证。至少大家写试卷写完会检查一下吧，但是写日记的话就不会检查了hhhh。</p>
+<ol start="2">
+<li>为什么选择公众号？</li>
+</ol>
+<p>其实就是因为公众号方便啦，没有成本。还有就是相对比较封闭，不像其他平台那样开放，不关注我的人就看不见我在写什么东西，相对自由。</p>
+<p>其实想过开个自己的小站，奈何技术力不行，而且需要的成本也不低，以后有机会或者公众号这边满足不了我的需求就自己整一个小站吧。</p>
+<h2> Q：我会在公众号写什么文章？</h2>
+<p><strong>A：</strong></p>
+<p>有的没得我会在公众号放下一些乱七八糟的东西，可能是一下几个方面：</p>
+<ul>
+<li>一些技术文档，比如我折腾我的家的过程经历</li>
+<li>一些解决方案，比如我偶尔碰到的一些小问题</li>
+<li>一些生活随笔，比如我的小小游记</li>
+<li>一些调研报告，比如我如何选购我的物品</li>
+<li>一些评论文章，咱也爱看电影是不</li>
+<li>一些受控文件，管理数字资产也要有方法论</li>
+</ul>
+<p>等等啦，也会发发我的摄影作品，总之就是我的一片数字后花园～</p>
+<hr>
+<p>当然啦，我只是个互联网菜鸡，也就图一乐哈哈哈</p>
+<p>更新就尽量做到每月至少一篇文章吧</p>
 ]]></content:encoded>
     </item>
     <item>
