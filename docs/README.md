@@ -16,3 +16,20 @@ icon: note
 
 ## 🍥 搭建 LearnData
 本文的搭建参考了网络文章[LearnData-开源笔记](https://newzone.top/)
+
+## 使用帮助
+
+经过测试，有一下注意事项：
+
+### 关于文件名称
+
+文件名称应当采用日期加英文的型式，不然会产生乱码。下面是示例：
+
+~~~
+
+YYYYMMDD-name.md
+
+20230528-Hello_World.md
+
+~~~
+
