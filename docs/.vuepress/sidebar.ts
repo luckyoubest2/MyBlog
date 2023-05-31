@@ -17,7 +17,6 @@ export default sidebar([
     collapsible: true,
     children: "structure",
   },
-  // 指定显示页面
   {
     text: "🏄 网络冲浪",
     icon: "",
@@ -29,7 +28,7 @@ export default sidebar([
   {
     text: "📝 评测文章",
     icon: "",
-    prefix: "/评测/",
+    prefix: "/evaluation/",
     link: "",
     collapsible: true,
     children: "structure",
@@ -37,7 +36,7 @@ export default sidebar([
   {
     text: "🛖 生活记录",
     icon: "",
-    prefix: "/生活/",
+    prefix: "/life/",
     link: "",
     collapsible: true,
     children: "structure",
@@ -45,7 +44,7 @@ export default sidebar([
   {
     text: "🙈 受控文章",
     icon: "",
-    prefix: "/模板/",
+    prefix: "/Control/",
     link: "",
     collapsible: true,
     children: "structure",
