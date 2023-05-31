@@ -6,8 +6,8 @@
     <link>https://luckyoubest2.github.io/</link>
     <description>网络街溜子的后花园</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 31 May 2023 08:56:04 GMT</pubDate>
-    <lastBuildDate>Wed, 31 May 2023 08:56:04 GMT</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 09:09:21 GMT</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 09:09:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>受控文件</category>
@@ -214,7 +214,11 @@
 </table>
 <h2> 测试飞书多维表格复制</h2>
 <h2> 测试文章引用</h2>
-<p>你可以在此处看到我的<a href="/_posts/posts/2023-05-28-Hello_World.html" target="blank">第一篇文章</a></p>
+<p>你可以在此处看到我的<a href="/posts/2023-05-28-Hello_World.html" target="blank">第一篇文章</a>
+这是一段直接从Obsidian复制来的链接，理论上应该连接到第一级目录下的<a href="/_posts/" target="blank">README</a>
+这是一段直接从Obsidian复制来的链接，理论上应该连接到<a href="/_posts/apps/20230530-%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.html" target="blank">20230530-网站搭建说明</a></p>
+<p>这是加"/"的版本，理论上应该连接到第一级目录下的<a href="/" target="blank">README</a>
+这是加"/"的版本，理论上应该连接到<a href="/apps/20230530-%E7%BD%91%E7%AB%99%E6%90%AD%E5%BB%BA%E8%AF%B4%E6%98%8E.html" target="blank">20230530-网站搭建说明</a></p>
 ]]></content:encoded>
     </item>
     <item>
