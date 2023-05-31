@@ -6,13 +6,48 @@
     <link>https://luckyoubest2.github.io/</link>
     <description>网络街溜子的后花园</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 31 May 2023 08:04:40 GMT</pubDate>
-    <lastBuildDate>Wed, 31 May 2023 08:04:40 GMT</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 08:35:38 GMT</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 08:35:38 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>受控文件</category>
     <category>解决方案</category>
     <category>随笔</category>
+    <item>
+      <title>文章分类规范</title>
+      <link>https://luckyoubest2.github.io/Controll/20230530-%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB%E8%A7%84%E8%8C%83.html</link>
+      <guid>https://luckyoubest2.github.io/Controll/20230530-%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB%E8%A7%84%E8%8C%83.html</guid>
+      <source url="https://luckyoubest2.github.io/rss.xml">文章分类规范</source>
+      <description>引言 基于我的博客网站的头部导航栏排版模式，将我的博文按如下所列进行分类。 读书笔记 解决方案 影评 游记 随笔 评测 数据库 受控文件 以上条目应至少选择一项填写在文章开头的描述中。如下示例： --- title: 文章分类规范 date: 2023-05-30 category: - 受控文件 tag: - category - 分类 - 个人博客 ---</description>
+      <category>受控文件</category>
+      <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 引言</h2>
+<p>基于我的博客网站的头部导航栏排版模式，将我的博文按如下所列进行分类。</p>
+<ul>
+<li>读书笔记</li>
+<li>解决方案</li>
+<li>影评</li>
+<li>游记</li>
+<li>随笔</li>
+<li>评测</li>
+<li>数据库</li>
+<li>受控文件</li>
+</ul>
+<p>以上条目应至少选择一项填写在文章开头的描述中。如下示例：</p>
+<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 关于文章存放位置</h2>
+<p>网站的文件结构如下所示，对应文件应当按下图放置</p>
+<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 文件信息</h2>
+<ul>
+<li>
+<p>生成日期：2023-05-30</p>
+</li>
+<li>
+<p>版本号：v1.0</p>
+<h3> 版本记录</h3>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
     <item>
       <title>测试文章</title>
       <link>https://luckyoubest2.github.io/posts/test.html</link>
@@ -169,42 +204,7 @@
 </table>
 <h2> 测试飞书多维表格复制</h2>
 <h2> 测试文章引用</h2>
-<p>你可以在此处看到我的<a href="/posts/2023-05-28-Hello_World.html" target="blank">第一篇文章</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>文章分类规范</title>
-      <link>https://luckyoubest2.github.io/%E6%A8%A1%E7%89%88/20230530-%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB%E8%A7%84%E8%8C%83.html</link>
-      <guid>https://luckyoubest2.github.io/%E6%A8%A1%E7%89%88/20230530-%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB%E8%A7%84%E8%8C%83.html</guid>
-      <source url="https://luckyoubest2.github.io/rss.xml">文章分类规范</source>
-      <description>引言 基于我的博客网站的头部导航栏排版模式，将我的博文按如下所列进行分类。 读书笔记 解决方案 影评 游记 随笔 评测 数据库 受控文件 以上条目应至少选择一项填写在文章开头的描述中。如下示例： --- title: 文章分类规范 date: 2023-05-30 category: - 受控文件 tag: - category - 分类 - 个人博客 ---</description>
-      <category>受控文件</category>
-      <pubDate>Tue, 30 May 2023 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 引言</h2>
-<p>基于我的博客网站的头部导航栏排版模式，将我的博文按如下所列进行分类。</p>
-<ul>
-<li>读书笔记</li>
-<li>解决方案</li>
-<li>影评</li>
-<li>游记</li>
-<li>随笔</li>
-<li>评测</li>
-<li>数据库</li>
-<li>受控文件</li>
-</ul>
-<p>以上条目应至少选择一项填写在文章开头的描述中。如下示例：</p>
-<div class="language-markdown line-numbers-mode" data-ext="md"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 关于文章存放位置</h2>
-<p>网站的文件结构如下所示，对应文件应当按下图放置</p>
-<div class="language-text line-numbers-mode" data-ext="text"><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2> 文件信息</h2>
-<ul>
-<li>
-<p>生成日期：2023-05-30</p>
-</li>
-<li>
-<p>版本号：v1.0</p>
-<h3> 版本记录</h3>
-</li>
-</ul>
+<p>你可以在此处看到我的<a href="/_posts/posts/2023-05-28-Hello_World.html" target="blank">第一篇文章</a></p>
 ]]></content:encoded>
     </item>
     <item>
