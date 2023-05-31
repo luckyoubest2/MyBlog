@@ -6,8 +6,8 @@
     <link>https://luckyoubest2.github.io/</link>
     <description>网络街溜子的后花园</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 31 May 2023 07:58:28 GMT</pubDate>
-    <lastBuildDate>Wed, 31 May 2023 07:58:28 GMT</lastBuildDate>
+    <pubDate>Wed, 31 May 2023 08:04:40 GMT</pubDate>
+    <lastBuildDate>Wed, 31 May 2023 08:04:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>受控文件</category>
@@ -15,8 +15,8 @@
     <category>随笔</category>
     <item>
       <title>测试文章</title>
-      <link>https://luckyoubest2.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0.html</link>
-      <guid>https://luckyoubest2.github.io/posts/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0.html</guid>
+      <link>https://luckyoubest2.github.io/posts/test.html</link>
+      <guid>https://luckyoubest2.github.io/posts/test.html</guid>
       <source url="https://luckyoubest2.github.io/rss.xml">测试文章</source>
       <description>测试excel复制 品牌 海尔 美的 卡萨帝 西门子 型号 BCD-545WFPB BCD-485WSPZM(E) BCD-555WDGAU1 KM46FA09TI 价格 4499 6499 10999 8099 外形尺寸（宽） 908 836 830 752 外形尺寸（厚） 648 600 677 715 外形尺寸（高） 1905 1912 1908 1911 预留间隙 未提及 5 20 100 总容积 545 485 555 452 冷藏室容积 327 318 368 207 变温室容积 37 0 96 冷冻室容积 181 167 187 149 开门方式 十字开门 十字开门 法式多门 十字门 每平米容积 926.26584 966.9059011 987.702657 840.648713 面板材质 PCM彩涂板 PCM彩涂板 钢化玻璃 PCM彩涂板 制冷方式 风冷 风冷 风冷 混冷 蒸发器数 未提及 1 未提及 3 压缩机数 未提及 1 未提及 1 制冷能力 7.5 5 7.5 未提及 电耗 0.93 0.81 0.79 1.05 噪声 38 36 35 未提及</description>
       <pubDate>Wed, 31 May 2023 00:00:00 GMT</pubDate>
@@ -169,7 +169,7 @@
 </table>
 <h2> 测试飞书多维表格复制</h2>
 <h2> 测试文章引用</h2>
-<p>你可以在此处看到我的<a href="/_posts/2023-05-28-Hello_World.html" target="blank">第一篇文章</a></p>
+<p>你可以在此处看到我的<a href="/posts/2023-05-28-Hello_World.html" target="blank">第一篇文章</a></p>
 ]]></content:encoded>
     </item>
     <item>
