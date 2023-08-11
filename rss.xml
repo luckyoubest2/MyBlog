@@ -6,8 +6,8 @@
     <link>https://luckyoubest2.github.io/</link>
     <description>网络街溜子的后花园</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 11 Aug 2023 07:16:17 GMT</pubDate>
-    <lastBuildDate>Fri, 11 Aug 2023 07:16:17 GMT</lastBuildDate>
+    <pubDate>Fri, 11 Aug 2023 07:30:29 GMT</pubDate>
+    <lastBuildDate>Fri, 11 Aug 2023 07:30:29 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>养娃</category>
@@ -18,14 +18,14 @@
       <link>https://luckyoubest2.github.io/life/0-%E8%82%B2%E5%84%BF%E7%9B%AE%E5%BD%95.html</link>
       <guid>https://luckyoubest2.github.io/life/0-%E8%82%B2%E5%84%BF%E7%9B%AE%E5%BD%95.html</guid>
       <source url="https://luckyoubest2.github.io/rss.xml">0-育儿目录</source>
-      <description>在这里记录关于生小孩的一切。 孕期准备 产前准备 生产前要准备什么？——[[知识库/育儿/待产包]]</description>
+      <description>在这里记录关于生小孩的一切。 孕期准备 产前准备 生产前要准备什么？——[/life/待产包]</description>
       <category>养娃</category>
       <pubDate>Fri, 11 Aug 2023 07:15:07 GMT</pubDate>
       <content:encoded><![CDATA[<p>在这里记录关于生小孩的一切。</p>
 <h2> 孕期准备</h2>
 <h2> 产前准备</h2>
 <ol>
-<li>生产前要准备什么？——[[知识库/育儿/待产包]]</li>
+<li>生产前要准备什么？——[/life/待产包]</li>
 </ol>
 ]]></content:encoded>
     </item>
